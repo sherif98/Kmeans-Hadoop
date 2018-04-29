@@ -1,10 +1,5 @@
 package com.example;
 
-import org.apache.hadoop.io.ArrayPrimitiveWritable;
-
-import java.util.Arrays;
-
-
 public final class PointUtils {
 
 
